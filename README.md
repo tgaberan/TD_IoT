@@ -8,14 +8,18 @@ open putty : https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe or terate
 
 connect to 192.168.7.2
 
-login : debian
+![image](img/puttyconfig.png)
 
-pass : temppwd
+> login : debian
+> pass : temppwd
+
 
 
 ### Connect to the WiFi
 
-root@BeagleBone:~# wpa_cli -i wlan0
+> root@BeagleBone:~# wpa_cli -i wlan0
+
+```sh
 wpa_cli v2.9
 Copyright (c) 2004-2019, Jouni Malinen <j@w1.fi> and contributors
 
@@ -23,7 +27,6 @@ This software may be distributed under the terms of the BSD license.
 See README for more details.
 
 Interactive mode
-```sh
 > scan
 OK
 <3>CTRL-EVENT-SCAN-STARTED 
@@ -54,7 +57,7 @@ OK
 <3>CTRL-EVENT-CONNECTED - Connection to be:fb:e4:f5:7b:d2 completed [id=1 id_str=]
 ```
 
-###Test Internet connection 
+### Test Internet connection 
 
 
 >ping google.com
