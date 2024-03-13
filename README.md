@@ -13,7 +13,9 @@ connect to 192.168.7.2
 > login : debian
 > pass : temppwd
 
+## dashboard
 
+http://213.32.88.153:1880/dashboard/
 
 ### Connect to the WiFi
 
