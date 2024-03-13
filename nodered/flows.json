@@ -1,0 +1,3871 @@
+[
+    {
+        "id": "4f60b2e366e2eb5e",
+        "type": "tab",
+        "label": "Flux 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "b1f9885ff7438bc2",
+        "type": "group",
+        "z": "4f60b2e366e2eb5e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "52c43a4b9cd74850",
+            "5672a4c2d276f43d",
+            "a73d2dcf35834ac0",
+            "a2389a062b8260fe",
+            "af189928d9ba74ca",
+            "5c1bb210a16dd878",
+            "fbec26791a5118e2",
+            "6d935c0de3a8e3f1",
+            "655a67eb5bd19a05",
+            "5f46afa7d55e3fef",
+            "640d64a79d5537c3",
+            "3cda7f423d30bfec"
+        ],
+        "x": 94,
+        "y": 419,
+        "w": 1172,
+        "h": 462
+    },
+    {
+        "id": "95f024e62cd39719",
+        "type": "group",
+        "z": "4f60b2e366e2eb5e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7d73a386c6aaef95",
+            "0932babe27d8cee3",
+            "4b3048eb957fb5d5",
+            "371c5d0d2a706460",
+            "d4f15bf2e861aa96",
+            "f6f1f38d58f531bf",
+            "a186330f5d201933",
+            "5f53905ab963d7c8",
+            "7d8f8649bb2ea33d",
+            "f04fb896806922e4",
+            "0f5fbe76866d83d6",
+            "96484792b9c34c4b"
+        ],
+        "x": 94,
+        "y": 919,
+        "w": 1172,
+        "h": 462
+    },
+    {
+        "id": "ed31229ebe8bb619",
+        "type": "group",
+        "z": "4f60b2e366e2eb5e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "c2c0481f16d79a21",
+            "6a83ac95fe4985be",
+            "2fbf756545bde3a0",
+            "7ddb12024b3e6080",
+            "ca1a475bea42f252",
+            "4d7660f5ba7612cd",
+            "935cd52f7cde10ed",
+            "57e53e2e700c940a",
+            "186e66df619d5b68",
+            "cd902913ab4b4465",
+            "8b9d87cdacf581d6",
+            "7094bf3b2a420d85"
+        ],
+        "x": 94,
+        "y": 1419,
+        "w": 1172,
+        "h": 462
+    },
+    {
+        "id": "24378169fd14e482",
+        "type": "group",
+        "z": "4f60b2e366e2eb5e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "66c2c97c48d13aa6",
+            "a40298633d2b6237",
+            "478e1d5651411664",
+            "1aa1ca6e553daa2a",
+            "c964e2c60e0ad7af",
+            "9c551b7baf984d11",
+            "24d9f46432d9f850",
+            "8b087e3c453b556e",
+            "bf18b79361f4bfea",
+            "5a8d5a32728467e0",
+            "1a1abb0719a27779",
+            "c2c55dd6cc113433"
+        ],
+        "x": 94,
+        "y": 1899,
+        "w": 1172,
+        "h": 462
+    },
+    {
+        "id": "d9494d752176fa2d",
+        "type": "group",
+        "z": "4f60b2e366e2eb5e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "68831b3d2cb94e35",
+            "bbd024533d3a8e75",
+            "316753d9b9e013b9",
+            "04aba907ab23b051",
+            "62c1cee77720fdb5",
+            "6dfd7c849f0d0d5d",
+            "7964c7648fca58ed",
+            "e8bee1aaecac31dc",
+            "688a2069fb999e1e",
+            "1ba2612b5bf72e56",
+            "4dfdc4c467f465fe",
+            "929d53cc6840bc61"
+        ],
+        "x": 94,
+        "y": 2379,
+        "w": 1172,
+        "h": 462
+    },
+    {
+        "id": "a81a77289596cd59",
+        "type": "group",
+        "z": "4f60b2e366e2eb5e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "fb838248bf5d9aa0",
+            "5bca07a48b1b6498",
+            "d3da9478e64cac8f",
+            "653b5d586372bba1",
+            "6b1d5cca95778a9f",
+            "1c6c2010f33ec929",
+            "77261b5380779e5c",
+            "2cd18901c5f3d376",
+            "faa880a578ac46ec",
+            "76dcc3a61c22ba1a",
+            "c8651ff57ad5c208",
+            "9bf080283f43a556"
+        ],
+        "x": 94,
+        "y": 2859,
+        "w": 1172,
+        "h": 462
+    },
+    {
+        "id": "70ad1e7a55772aaf",
+        "type": "group",
+        "z": "4f60b2e366e2eb5e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "acbe87ec7ecbaa74",
+            "9f8826494a203655",
+            "30ce84f42ec3db78",
+            "9e1e3dca96d2ec13",
+            "5afe2c4bc8f187d1",
+            "810a6fb2e49c2451",
+            "41dc9fb3182610d3",
+            "db173f4203b13c3a",
+            "2441c908c7cdb0df",
+            "b622a20e91b253b8",
+            "f0944873ce7f9670",
+            "abf8fc2f1fd5a8ef"
+        ],
+        "x": 114,
+        "y": 3339,
+        "w": 1172,
+        "h": 462
+    },
+    {
+        "id": "39c4a543aa3ea410",
+        "type": "group",
+        "z": "4f60b2e366e2eb5e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ee97a930e16ca8f9",
+            "94624116694dda1f",
+            "78753fc46620be66",
+            "92a2c206c0d3bac4",
+            "2ec7e0295af400be",
+            "514c74448f24d911",
+            "5655b59a344849ed",
+            "a8b44221e7012afe",
+            "85d7ea131cf97bcf",
+            "994e4b4aac027e8e",
+            "1fc11ed428b983f3",
+            "adf1b5756bf07d72"
+        ],
+        "x": 114,
+        "y": 3819,
+        "w": 1172,
+        "h": 462
+    },
+    {
+        "id": "8ddeb7a97deb4715",
+        "type": "group",
+        "z": "4f60b2e366e2eb5e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "13e61b30718a6980",
+            "b240a206404f9326",
+            "d4822058fdd416bc",
+            "3b0117bf303088a8",
+            "08a9753564bb5ceb",
+            "bf7c7a713e3736ce",
+            "647f65d69124779f",
+            "433e4dfc0f80793f",
+            "2910f2279c4354fa",
+            "edc68dedcf67e84a",
+            "a6bb6a24aea9d05a",
+            "0460c71191388db4"
+        ],
+        "x": 114,
+        "y": 4299,
+        "w": 1172,
+        "h": 462
+    },
+    {
+        "id": "af872bb6a9ad79b5",
+        "type": "group",
+        "z": "4f60b2e366e2eb5e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "bd88abeb0dbd4d08",
+            "dbbfc6e9a1eec37a",
+            "22148f4b6a5eb0f1",
+            "242f5cbdf19428d5",
+            "ffeee258fa05bf03",
+            "e9d776fda3f1981e",
+            "cc317569d0e658b0",
+            "c3778cbc1d12153f",
+            "6a56ae8fff0784a2",
+            "af2ec8ef4df24a37",
+            "ec88653e0ee66349",
+            "6a1d96430ef4a85b"
+        ],
+        "x": 114,
+        "y": 4799,
+        "w": 1172,
+        "h": 462
+    },
+    {
+        "id": "f613ebba7da22c99",
+        "type": "mqtt in",
+        "z": "4f60b2e366e2eb5e",
+        "name": "",
+        "topic": "#",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "3e7de86a73855ac4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 200,
+        "wires": [
+            [
+                "3f4def7bb99ca564"
+            ]
+        ]
+    },
+    {
+        "id": "3f4def7bb99ca564",
+        "type": "json",
+        "z": "4f60b2e366e2eb5e",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 390,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "52c43a4b9cd74850",
+        "type": "mqtt out",
+        "z": "4f60b2e366e2eb5e",
+        "g": "b1f9885ff7438bc2",
+        "name": "",
+        "topic": "/1/ctrl",
+        "qos": "1",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "3e7de86a73855ac4",
+        "x": 390,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "5672a4c2d276f43d",
+        "type": "mqtt in",
+        "z": "4f60b2e366e2eb5e",
+        "g": "b1f9885ff7438bc2",
+        "name": "",
+        "topic": "/1/sensor",
+        "qos": "2",
+        "datatype": "json",
+        "broker": "3e7de86a73855ac4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 480,
+        "y": 600,
+        "wires": [
+            [
+                "a73d2dcf35834ac0",
+                "af189928d9ba74ca",
+                "6d935c0de3a8e3f1"
+            ]
+        ]
+    },
+    {
+        "id": "a73d2dcf35834ac0",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "b1f9885ff7438bc2",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 800,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "a2389a062b8260fe",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "b1f9885ff7438bc2",
+        "name": "debug 2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "af189928d9ba74ca",
+        "type": "json",
+        "z": "4f60b2e366e2eb5e",
+        "g": "b1f9885ff7438bc2",
+        "name": "",
+        "property": "payload.temp",
+        "action": "obj",
+        "pretty": false,
+        "x": 650,
+        "y": 600,
+        "wires": [
+            [
+                "5c1bb210a16dd878",
+                "fbec26791a5118e2"
+            ]
+        ]
+    },
+    {
+        "id": "5c1bb210a16dd878",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "b1f9885ff7438bc2",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.temp",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 600,
+        "wires": [
+            [
+                "a2389a062b8260fe",
+                "640d64a79d5537c3",
+                "3cda7f423d30bfec"
+            ]
+        ]
+    },
+    {
+        "id": "fbec26791a5118e2",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "b1f9885ff7438bc2",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.switch",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 540,
+        "wires": [
+            [
+                "5f46afa7d55e3fef"
+            ]
+        ]
+    },
+    {
+        "id": "6d935c0de3a8e3f1",
+        "type": "ui-text",
+        "z": "4f60b2e366e2eb5e",
+        "g": "b1f9885ff7438bc2",
+        "group": "e718f90f8bb0eae5",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "text",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "className": "",
+        "x": 1150,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "655a67eb5bd19a05",
+        "type": "ui-switch",
+        "z": "4f60b2e366e2eb5e",
+        "g": "b1f9885ff7438bc2",
+        "name": "Led control",
+        "label": "Led control",
+        "group": "e718f90f8bb0eae5",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "className": "",
+        "onvalue": "{\"led\":1}",
+        "onvalueType": "json",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "{\"led\":0}",
+        "offvalueType": "json",
+        "officon": "",
+        "offcolor": "",
+        "x": 190,
+        "y": 460,
+        "wires": [
+            [
+                "52c43a4b9cd74850"
+            ]
+        ]
+    },
+    {
+        "id": "5f46afa7d55e3fef",
+        "type": "ui-led",
+        "z": "4f60b2e366e2eb5e",
+        "g": "b1f9885ff7438bc2",
+        "name": "Switch status",
+        "group": "e718f90f8bb0eae5",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "Swtich status",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "states": [
+            {
+                "value": "false",
+                "valueType": "bool",
+                "color": "#ff0000"
+            },
+            {
+                "value": "true",
+                "valueType": "bool",
+                "color": "#00ff00"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showBorder": true,
+        "showGlow": false,
+        "x": 1150,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "640d64a79d5537c3",
+        "type": "ui-chart",
+        "z": "4f60b2e366e2eb5e",
+        "g": "b1f9885ff7438bc2",
+        "group": "e718f90f8bb0eae5",
+        "name": "",
+        "label": "Temperature",
+        "order": 4,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "msg",
+        "xAxisType": "time",
+        "yAxisProperty": "",
+        "ymin": "",
+        "ymax": "",
+        "action": "append",
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "3600",
+        "removeOlderPoints": "",
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "width": "3",
+        "height": "4",
+        "className": "",
+        "x": 1170,
+        "y": 600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3cda7f423d30bfec",
+        "type": "ui-gauge",
+        "z": "4f60b2e366e2eb5e",
+        "g": "b1f9885ff7438bc2",
+        "name": "",
+        "group": "e718f90f8bb0eae5",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Temperature",
+        "units": "[°C]",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c"
+            },
+            {
+                "from": "4",
+                "color": "#ffc800"
+            },
+            {
+                "from": "7",
+                "color": "#ea5353"
+            }
+        ],
+        "min": 0,
+        "max": "100",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 1170,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "7d73a386c6aaef95",
+        "type": "mqtt out",
+        "z": "4f60b2e366e2eb5e",
+        "g": "95f024e62cd39719",
+        "name": "",
+        "topic": "/2/ctrl",
+        "qos": "1",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "3e7de86a73855ac4",
+        "x": 390,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "0932babe27d8cee3",
+        "type": "mqtt in",
+        "z": "4f60b2e366e2eb5e",
+        "g": "95f024e62cd39719",
+        "name": "",
+        "topic": "/2/sensor",
+        "qos": "2",
+        "datatype": "json",
+        "broker": "3e7de86a73855ac4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 480,
+        "y": 1100,
+        "wires": [
+            [
+                "4b3048eb957fb5d5",
+                "d4f15bf2e861aa96",
+                "5f53905ab963d7c8"
+            ]
+        ]
+    },
+    {
+        "id": "4b3048eb957fb5d5",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "95f024e62cd39719",
+        "name": "debug 3",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 800,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "371c5d0d2a706460",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "95f024e62cd39719",
+        "name": "debug 4",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 1180,
+        "wires": []
+    },
+    {
+        "id": "d4f15bf2e861aa96",
+        "type": "json",
+        "z": "4f60b2e366e2eb5e",
+        "g": "95f024e62cd39719",
+        "name": "",
+        "property": "payload.temp",
+        "action": "obj",
+        "pretty": false,
+        "x": 650,
+        "y": 1100,
+        "wires": [
+            [
+                "f6f1f38d58f531bf",
+                "a186330f5d201933"
+            ]
+        ]
+    },
+    {
+        "id": "f6f1f38d58f531bf",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "95f024e62cd39719",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.temp",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 1100,
+        "wires": [
+            [
+                "371c5d0d2a706460",
+                "0f5fbe76866d83d6",
+                "96484792b9c34c4b"
+            ]
+        ]
+    },
+    {
+        "id": "a186330f5d201933",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "95f024e62cd39719",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.switch",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 1040,
+        "wires": [
+            [
+                "f04fb896806922e4"
+            ]
+        ]
+    },
+    {
+        "id": "5f53905ab963d7c8",
+        "type": "ui-text",
+        "z": "4f60b2e366e2eb5e",
+        "g": "95f024e62cd39719",
+        "group": "28c23fd9eadfbfb9",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "text",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "className": "",
+        "x": 1150,
+        "y": 1340,
+        "wires": []
+    },
+    {
+        "id": "7d8f8649bb2ea33d",
+        "type": "ui-switch",
+        "z": "4f60b2e366e2eb5e",
+        "g": "95f024e62cd39719",
+        "name": "Led control",
+        "label": "Led control",
+        "group": "28c23fd9eadfbfb9",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "className": "",
+        "onvalue": "{\"led\":1}",
+        "onvalueType": "json",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "{\"led\":0}",
+        "offvalueType": "json",
+        "officon": "",
+        "offcolor": "",
+        "x": 190,
+        "y": 960,
+        "wires": [
+            [
+                "7d73a386c6aaef95"
+            ]
+        ]
+    },
+    {
+        "id": "f04fb896806922e4",
+        "type": "ui-led",
+        "z": "4f60b2e366e2eb5e",
+        "g": "95f024e62cd39719",
+        "name": "Switch status",
+        "group": "28c23fd9eadfbfb9",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "Swtich status",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "states": [
+            {
+                "value": "false",
+                "valueType": "bool",
+                "color": "#ff0000"
+            },
+            {
+                "value": "true",
+                "valueType": "bool",
+                "color": "#00ff00"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showBorder": true,
+        "showGlow": false,
+        "x": 1150,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "0f5fbe76866d83d6",
+        "type": "ui-chart",
+        "z": "4f60b2e366e2eb5e",
+        "g": "95f024e62cd39719",
+        "group": "28c23fd9eadfbfb9",
+        "name": "",
+        "label": "Temperature",
+        "order": 4,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "msg",
+        "xAxisType": "time",
+        "yAxisProperty": "",
+        "ymin": "",
+        "ymax": "",
+        "action": "append",
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "3600",
+        "removeOlderPoints": "",
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "width": "3",
+        "height": "4",
+        "className": "",
+        "x": 1170,
+        "y": 1100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "96484792b9c34c4b",
+        "type": "ui-gauge",
+        "z": "4f60b2e366e2eb5e",
+        "g": "95f024e62cd39719",
+        "name": "",
+        "group": "28c23fd9eadfbfb9",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Temperature",
+        "units": "[°C]",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c"
+            },
+            {
+                "from": "4",
+                "color": "#ffc800"
+            },
+            {
+                "from": "7",
+                "color": "#ea5353"
+            }
+        ],
+        "min": 0,
+        "max": "100",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 1170,
+        "y": 1240,
+        "wires": []
+    },
+    {
+        "id": "c2c0481f16d79a21",
+        "type": "mqtt out",
+        "z": "4f60b2e366e2eb5e",
+        "g": "ed31229ebe8bb619",
+        "name": "",
+        "topic": "/3/ctrl",
+        "qos": "1",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "3e7de86a73855ac4",
+        "x": 390,
+        "y": 1460,
+        "wires": []
+    },
+    {
+        "id": "6a83ac95fe4985be",
+        "type": "mqtt in",
+        "z": "4f60b2e366e2eb5e",
+        "g": "ed31229ebe8bb619",
+        "name": "",
+        "topic": "/3/sensor",
+        "qos": "2",
+        "datatype": "json",
+        "broker": "3e7de86a73855ac4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 480,
+        "y": 1600,
+        "wires": [
+            [
+                "2fbf756545bde3a0",
+                "ca1a475bea42f252",
+                "57e53e2e700c940a"
+            ]
+        ]
+    },
+    {
+        "id": "2fbf756545bde3a0",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "ed31229ebe8bb619",
+        "name": "debug 5",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 800,
+        "y": 1460,
+        "wires": []
+    },
+    {
+        "id": "7ddb12024b3e6080",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "ed31229ebe8bb619",
+        "name": "debug 6",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 1680,
+        "wires": []
+    },
+    {
+        "id": "ca1a475bea42f252",
+        "type": "json",
+        "z": "4f60b2e366e2eb5e",
+        "g": "ed31229ebe8bb619",
+        "name": "",
+        "property": "payload.temp",
+        "action": "obj",
+        "pretty": false,
+        "x": 650,
+        "y": 1600,
+        "wires": [
+            [
+                "4d7660f5ba7612cd",
+                "935cd52f7cde10ed"
+            ]
+        ]
+    },
+    {
+        "id": "4d7660f5ba7612cd",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "ed31229ebe8bb619",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.temp",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 1600,
+        "wires": [
+            [
+                "7ddb12024b3e6080",
+                "8b9d87cdacf581d6",
+                "7094bf3b2a420d85"
+            ]
+        ]
+    },
+    {
+        "id": "935cd52f7cde10ed",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "ed31229ebe8bb619",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.switch",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 1540,
+        "wires": [
+            [
+                "cd902913ab4b4465"
+            ]
+        ]
+    },
+    {
+        "id": "57e53e2e700c940a",
+        "type": "ui-text",
+        "z": "4f60b2e366e2eb5e",
+        "g": "ed31229ebe8bb619",
+        "group": "9cd8e89b21640241",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "text",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "className": "",
+        "x": 1150,
+        "y": 1840,
+        "wires": []
+    },
+    {
+        "id": "186e66df619d5b68",
+        "type": "ui-switch",
+        "z": "4f60b2e366e2eb5e",
+        "g": "ed31229ebe8bb619",
+        "name": "Led control",
+        "label": "Led control",
+        "group": "9cd8e89b21640241",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "className": "",
+        "onvalue": "{\"led\":1}",
+        "onvalueType": "json",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "{\"led\":0}",
+        "offvalueType": "json",
+        "officon": "",
+        "offcolor": "",
+        "x": 190,
+        "y": 1460,
+        "wires": [
+            [
+                "c2c0481f16d79a21"
+            ]
+        ]
+    },
+    {
+        "id": "cd902913ab4b4465",
+        "type": "ui-led",
+        "z": "4f60b2e366e2eb5e",
+        "g": "ed31229ebe8bb619",
+        "name": "Switch status",
+        "group": "9cd8e89b21640241",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "Swtich status",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "states": [
+            {
+                "value": "false",
+                "valueType": "bool",
+                "color": "#ff0000"
+            },
+            {
+                "value": "true",
+                "valueType": "bool",
+                "color": "#00ff00"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showBorder": true,
+        "showGlow": false,
+        "x": 1150,
+        "y": 1540,
+        "wires": []
+    },
+    {
+        "id": "8b9d87cdacf581d6",
+        "type": "ui-chart",
+        "z": "4f60b2e366e2eb5e",
+        "g": "ed31229ebe8bb619",
+        "group": "9cd8e89b21640241",
+        "name": "",
+        "label": "Temperature",
+        "order": 4,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "msg",
+        "xAxisType": "time",
+        "yAxisProperty": "",
+        "ymin": "",
+        "ymax": "",
+        "action": "append",
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "3600",
+        "removeOlderPoints": "",
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "width": "3",
+        "height": "4",
+        "className": "",
+        "x": 1170,
+        "y": 1600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7094bf3b2a420d85",
+        "type": "ui-gauge",
+        "z": "4f60b2e366e2eb5e",
+        "g": "ed31229ebe8bb619",
+        "name": "",
+        "group": "9cd8e89b21640241",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Temperature",
+        "units": "[°C]",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c"
+            },
+            {
+                "from": "4",
+                "color": "#ffc800"
+            },
+            {
+                "from": "7",
+                "color": "#ea5353"
+            }
+        ],
+        "min": 0,
+        "max": "100",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 1170,
+        "y": 1740,
+        "wires": []
+    },
+    {
+        "id": "66c2c97c48d13aa6",
+        "type": "mqtt out",
+        "z": "4f60b2e366e2eb5e",
+        "g": "24378169fd14e482",
+        "name": "",
+        "topic": "/4/ctrl",
+        "qos": "1",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "3e7de86a73855ac4",
+        "x": 390,
+        "y": 1940,
+        "wires": []
+    },
+    {
+        "id": "a40298633d2b6237",
+        "type": "mqtt in",
+        "z": "4f60b2e366e2eb5e",
+        "g": "24378169fd14e482",
+        "name": "",
+        "topic": "/4/sensor",
+        "qos": "2",
+        "datatype": "json",
+        "broker": "3e7de86a73855ac4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 480,
+        "y": 2080,
+        "wires": [
+            [
+                "478e1d5651411664",
+                "c964e2c60e0ad7af",
+                "8b087e3c453b556e"
+            ]
+        ]
+    },
+    {
+        "id": "478e1d5651411664",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "24378169fd14e482",
+        "name": "debug 7",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 800,
+        "y": 1940,
+        "wires": []
+    },
+    {
+        "id": "1aa1ca6e553daa2a",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "24378169fd14e482",
+        "name": "debug 8",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 2160,
+        "wires": []
+    },
+    {
+        "id": "c964e2c60e0ad7af",
+        "type": "json",
+        "z": "4f60b2e366e2eb5e",
+        "g": "24378169fd14e482",
+        "name": "",
+        "property": "payload.temp",
+        "action": "obj",
+        "pretty": false,
+        "x": 650,
+        "y": 2080,
+        "wires": [
+            [
+                "9c551b7baf984d11",
+                "24d9f46432d9f850"
+            ]
+        ]
+    },
+    {
+        "id": "9c551b7baf984d11",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "24378169fd14e482",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.temp",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 2080,
+        "wires": [
+            [
+                "1aa1ca6e553daa2a",
+                "1a1abb0719a27779",
+                "c2c55dd6cc113433"
+            ]
+        ]
+    },
+    {
+        "id": "24d9f46432d9f850",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "24378169fd14e482",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.switch",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 2020,
+        "wires": [
+            [
+                "5a8d5a32728467e0"
+            ]
+        ]
+    },
+    {
+        "id": "8b087e3c453b556e",
+        "type": "ui-text",
+        "z": "4f60b2e366e2eb5e",
+        "g": "24378169fd14e482",
+        "group": "573fcdddf1f181de",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "text",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "className": "",
+        "x": 1150,
+        "y": 2320,
+        "wires": []
+    },
+    {
+        "id": "bf18b79361f4bfea",
+        "type": "ui-switch",
+        "z": "4f60b2e366e2eb5e",
+        "g": "24378169fd14e482",
+        "name": "Led control",
+        "label": "Led control",
+        "group": "573fcdddf1f181de",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "className": "",
+        "onvalue": "{\"led\":1}",
+        "onvalueType": "json",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "{\"led\":0}",
+        "offvalueType": "json",
+        "officon": "",
+        "offcolor": "",
+        "x": 190,
+        "y": 1940,
+        "wires": [
+            [
+                "66c2c97c48d13aa6"
+            ]
+        ]
+    },
+    {
+        "id": "5a8d5a32728467e0",
+        "type": "ui-led",
+        "z": "4f60b2e366e2eb5e",
+        "g": "24378169fd14e482",
+        "name": "Switch status",
+        "group": "573fcdddf1f181de",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "Swtich status",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "states": [
+            {
+                "value": "false",
+                "valueType": "bool",
+                "color": "#ff0000"
+            },
+            {
+                "value": "true",
+                "valueType": "bool",
+                "color": "#00ff00"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showBorder": true,
+        "showGlow": false,
+        "x": 1150,
+        "y": 2020,
+        "wires": []
+    },
+    {
+        "id": "1a1abb0719a27779",
+        "type": "ui-chart",
+        "z": "4f60b2e366e2eb5e",
+        "g": "24378169fd14e482",
+        "group": "573fcdddf1f181de",
+        "name": "",
+        "label": "Temperature",
+        "order": 4,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "msg",
+        "xAxisType": "time",
+        "yAxisProperty": "",
+        "ymin": "",
+        "ymax": "",
+        "action": "append",
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "3600",
+        "removeOlderPoints": "",
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "width": "3",
+        "height": "4",
+        "className": "",
+        "x": 1170,
+        "y": 2080,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c2c55dd6cc113433",
+        "type": "ui-gauge",
+        "z": "4f60b2e366e2eb5e",
+        "g": "24378169fd14e482",
+        "name": "",
+        "group": "573fcdddf1f181de",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Temperature",
+        "units": "[°C]",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c"
+            },
+            {
+                "from": "4",
+                "color": "#ffc800"
+            },
+            {
+                "from": "7",
+                "color": "#ea5353"
+            }
+        ],
+        "min": 0,
+        "max": "100",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 1170,
+        "y": 2220,
+        "wires": []
+    },
+    {
+        "id": "68831b3d2cb94e35",
+        "type": "mqtt out",
+        "z": "4f60b2e366e2eb5e",
+        "g": "d9494d752176fa2d",
+        "name": "",
+        "topic": "/5/ctrl",
+        "qos": "1",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "3e7de86a73855ac4",
+        "x": 390,
+        "y": 2420,
+        "wires": []
+    },
+    {
+        "id": "bbd024533d3a8e75",
+        "type": "mqtt in",
+        "z": "4f60b2e366e2eb5e",
+        "g": "d9494d752176fa2d",
+        "name": "",
+        "topic": "/5/sensor",
+        "qos": "2",
+        "datatype": "json",
+        "broker": "3e7de86a73855ac4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 480,
+        "y": 2560,
+        "wires": [
+            [
+                "316753d9b9e013b9",
+                "62c1cee77720fdb5",
+                "e8bee1aaecac31dc"
+            ]
+        ]
+    },
+    {
+        "id": "316753d9b9e013b9",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "d9494d752176fa2d",
+        "name": "debug 9",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 800,
+        "y": 2420,
+        "wires": []
+    },
+    {
+        "id": "04aba907ab23b051",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "d9494d752176fa2d",
+        "name": "debug 10",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 2640,
+        "wires": []
+    },
+    {
+        "id": "62c1cee77720fdb5",
+        "type": "json",
+        "z": "4f60b2e366e2eb5e",
+        "g": "d9494d752176fa2d",
+        "name": "",
+        "property": "payload.temp",
+        "action": "obj",
+        "pretty": false,
+        "x": 650,
+        "y": 2560,
+        "wires": [
+            [
+                "6dfd7c849f0d0d5d",
+                "7964c7648fca58ed"
+            ]
+        ]
+    },
+    {
+        "id": "6dfd7c849f0d0d5d",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "d9494d752176fa2d",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.temp",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 2560,
+        "wires": [
+            [
+                "04aba907ab23b051",
+                "4dfdc4c467f465fe",
+                "929d53cc6840bc61"
+            ]
+        ]
+    },
+    {
+        "id": "7964c7648fca58ed",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "d9494d752176fa2d",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.switch",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 2500,
+        "wires": [
+            [
+                "1ba2612b5bf72e56"
+            ]
+        ]
+    },
+    {
+        "id": "e8bee1aaecac31dc",
+        "type": "ui-text",
+        "z": "4f60b2e366e2eb5e",
+        "g": "d9494d752176fa2d",
+        "group": "7fcd15d2046cee8b",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "text",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "className": "",
+        "x": 1150,
+        "y": 2800,
+        "wires": []
+    },
+    {
+        "id": "688a2069fb999e1e",
+        "type": "ui-switch",
+        "z": "4f60b2e366e2eb5e",
+        "g": "d9494d752176fa2d",
+        "name": "Led control",
+        "label": "Led control",
+        "group": "7fcd15d2046cee8b",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "className": "",
+        "onvalue": "{\"led\":1}",
+        "onvalueType": "json",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "{\"led\":0}",
+        "offvalueType": "json",
+        "officon": "",
+        "offcolor": "",
+        "x": 190,
+        "y": 2420,
+        "wires": [
+            [
+                "68831b3d2cb94e35"
+            ]
+        ]
+    },
+    {
+        "id": "1ba2612b5bf72e56",
+        "type": "ui-led",
+        "z": "4f60b2e366e2eb5e",
+        "g": "d9494d752176fa2d",
+        "name": "Switch status",
+        "group": "7fcd15d2046cee8b",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "Swtich status",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "states": [
+            {
+                "value": "false",
+                "valueType": "bool",
+                "color": "#ff0000"
+            },
+            {
+                "value": "true",
+                "valueType": "bool",
+                "color": "#00ff00"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showBorder": true,
+        "showGlow": false,
+        "x": 1150,
+        "y": 2500,
+        "wires": []
+    },
+    {
+        "id": "4dfdc4c467f465fe",
+        "type": "ui-chart",
+        "z": "4f60b2e366e2eb5e",
+        "g": "d9494d752176fa2d",
+        "group": "7fcd15d2046cee8b",
+        "name": "",
+        "label": "Temperature",
+        "order": 4,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "msg",
+        "xAxisType": "time",
+        "yAxisProperty": "",
+        "ymin": "",
+        "ymax": "",
+        "action": "append",
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "3600",
+        "removeOlderPoints": "",
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "width": "3",
+        "height": "4",
+        "className": "",
+        "x": 1170,
+        "y": 2560,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "929d53cc6840bc61",
+        "type": "ui-gauge",
+        "z": "4f60b2e366e2eb5e",
+        "g": "d9494d752176fa2d",
+        "name": "",
+        "group": "7fcd15d2046cee8b",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Temperature",
+        "units": "[°C]",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c"
+            },
+            {
+                "from": "4",
+                "color": "#ffc800"
+            },
+            {
+                "from": "7",
+                "color": "#ea5353"
+            }
+        ],
+        "min": 0,
+        "max": "100",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 1170,
+        "y": 2700,
+        "wires": []
+    },
+    {
+        "id": "fb838248bf5d9aa0",
+        "type": "mqtt out",
+        "z": "4f60b2e366e2eb5e",
+        "g": "a81a77289596cd59",
+        "name": "",
+        "topic": "/6/ctrl",
+        "qos": "1",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "3e7de86a73855ac4",
+        "x": 390,
+        "y": 2900,
+        "wires": []
+    },
+    {
+        "id": "5bca07a48b1b6498",
+        "type": "mqtt in",
+        "z": "4f60b2e366e2eb5e",
+        "g": "a81a77289596cd59",
+        "name": "",
+        "topic": "/6/sensor",
+        "qos": "2",
+        "datatype": "json",
+        "broker": "3e7de86a73855ac4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 480,
+        "y": 3040,
+        "wires": [
+            [
+                "d3da9478e64cac8f",
+                "6b1d5cca95778a9f",
+                "2cd18901c5f3d376"
+            ]
+        ]
+    },
+    {
+        "id": "d3da9478e64cac8f",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "a81a77289596cd59",
+        "name": "debug 11",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 800,
+        "y": 2900,
+        "wires": []
+    },
+    {
+        "id": "653b5d586372bba1",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "a81a77289596cd59",
+        "name": "debug 12",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 3120,
+        "wires": []
+    },
+    {
+        "id": "6b1d5cca95778a9f",
+        "type": "json",
+        "z": "4f60b2e366e2eb5e",
+        "g": "a81a77289596cd59",
+        "name": "",
+        "property": "payload.temp",
+        "action": "obj",
+        "pretty": false,
+        "x": 650,
+        "y": 3040,
+        "wires": [
+            [
+                "1c6c2010f33ec929",
+                "77261b5380779e5c"
+            ]
+        ]
+    },
+    {
+        "id": "1c6c2010f33ec929",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "a81a77289596cd59",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.temp",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 3040,
+        "wires": [
+            [
+                "653b5d586372bba1",
+                "c8651ff57ad5c208",
+                "9bf080283f43a556"
+            ]
+        ]
+    },
+    {
+        "id": "77261b5380779e5c",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "a81a77289596cd59",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.switch",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 2980,
+        "wires": [
+            [
+                "76dcc3a61c22ba1a"
+            ]
+        ]
+    },
+    {
+        "id": "2cd18901c5f3d376",
+        "type": "ui-text",
+        "z": "4f60b2e366e2eb5e",
+        "g": "a81a77289596cd59",
+        "group": "bb445058d5fe5355",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "text",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "className": "",
+        "x": 1150,
+        "y": 3280,
+        "wires": []
+    },
+    {
+        "id": "faa880a578ac46ec",
+        "type": "ui-switch",
+        "z": "4f60b2e366e2eb5e",
+        "g": "a81a77289596cd59",
+        "name": "Led control",
+        "label": "Led control",
+        "group": "bb445058d5fe5355",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "className": "",
+        "onvalue": "{\"led\":1}",
+        "onvalueType": "json",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "{\"led\":0}",
+        "offvalueType": "json",
+        "officon": "",
+        "offcolor": "",
+        "x": 190,
+        "y": 2900,
+        "wires": [
+            [
+                "fb838248bf5d9aa0"
+            ]
+        ]
+    },
+    {
+        "id": "76dcc3a61c22ba1a",
+        "type": "ui-led",
+        "z": "4f60b2e366e2eb5e",
+        "g": "a81a77289596cd59",
+        "name": "Switch status",
+        "group": "bb445058d5fe5355",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "Swtich status",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "states": [
+            {
+                "value": "false",
+                "valueType": "bool",
+                "color": "#ff0000"
+            },
+            {
+                "value": "true",
+                "valueType": "bool",
+                "color": "#00ff00"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showBorder": true,
+        "showGlow": false,
+        "x": 1150,
+        "y": 2980,
+        "wires": []
+    },
+    {
+        "id": "c8651ff57ad5c208",
+        "type": "ui-chart",
+        "z": "4f60b2e366e2eb5e",
+        "g": "a81a77289596cd59",
+        "group": "bb445058d5fe5355",
+        "name": "",
+        "label": "Temperature",
+        "order": 4,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "msg",
+        "xAxisType": "time",
+        "yAxisProperty": "",
+        "ymin": "",
+        "ymax": "",
+        "action": "append",
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "3600",
+        "removeOlderPoints": "",
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "width": "3",
+        "height": "4",
+        "className": "",
+        "x": 1170,
+        "y": 3040,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9bf080283f43a556",
+        "type": "ui-gauge",
+        "z": "4f60b2e366e2eb5e",
+        "g": "a81a77289596cd59",
+        "name": "",
+        "group": "bb445058d5fe5355",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Temperature",
+        "units": "[°C]",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c"
+            },
+            {
+                "from": "4",
+                "color": "#ffc800"
+            },
+            {
+                "from": "7",
+                "color": "#ea5353"
+            }
+        ],
+        "min": 0,
+        "max": "100",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 1170,
+        "y": 3180,
+        "wires": []
+    },
+    {
+        "id": "acbe87ec7ecbaa74",
+        "type": "mqtt out",
+        "z": "4f60b2e366e2eb5e",
+        "g": "70ad1e7a55772aaf",
+        "name": "",
+        "topic": "/7/ctrl",
+        "qos": "1",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "3e7de86a73855ac4",
+        "x": 410,
+        "y": 3380,
+        "wires": []
+    },
+    {
+        "id": "9f8826494a203655",
+        "type": "mqtt in",
+        "z": "4f60b2e366e2eb5e",
+        "g": "70ad1e7a55772aaf",
+        "name": "",
+        "topic": "/7/sensor",
+        "qos": "2",
+        "datatype": "json",
+        "broker": "3e7de86a73855ac4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 500,
+        "y": 3520,
+        "wires": [
+            [
+                "30ce84f42ec3db78",
+                "5afe2c4bc8f187d1",
+                "db173f4203b13c3a"
+            ]
+        ]
+    },
+    {
+        "id": "30ce84f42ec3db78",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "70ad1e7a55772aaf",
+        "name": "debug 13",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 820,
+        "y": 3380,
+        "wires": []
+    },
+    {
+        "id": "9e1e3dca96d2ec13",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "70ad1e7a55772aaf",
+        "name": "debug 14",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1160,
+        "y": 3600,
+        "wires": []
+    },
+    {
+        "id": "5afe2c4bc8f187d1",
+        "type": "json",
+        "z": "4f60b2e366e2eb5e",
+        "g": "70ad1e7a55772aaf",
+        "name": "",
+        "property": "payload.temp",
+        "action": "obj",
+        "pretty": false,
+        "x": 670,
+        "y": 3520,
+        "wires": [
+            [
+                "810a6fb2e49c2451",
+                "41dc9fb3182610d3"
+            ]
+        ]
+    },
+    {
+        "id": "810a6fb2e49c2451",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "70ad1e7a55772aaf",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.temp",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 900,
+        "y": 3520,
+        "wires": [
+            [
+                "9e1e3dca96d2ec13",
+                "f0944873ce7f9670",
+                "abf8fc2f1fd5a8ef"
+            ]
+        ]
+    },
+    {
+        "id": "41dc9fb3182610d3",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "70ad1e7a55772aaf",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.switch",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 900,
+        "y": 3460,
+        "wires": [
+            [
+                "b622a20e91b253b8"
+            ]
+        ]
+    },
+    {
+        "id": "db173f4203b13c3a",
+        "type": "ui-text",
+        "z": "4f60b2e366e2eb5e",
+        "g": "70ad1e7a55772aaf",
+        "group": "39cba0eaeb3461ed",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "text",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "className": "",
+        "x": 1170,
+        "y": 3760,
+        "wires": []
+    },
+    {
+        "id": "2441c908c7cdb0df",
+        "type": "ui-switch",
+        "z": "4f60b2e366e2eb5e",
+        "g": "70ad1e7a55772aaf",
+        "name": "Led control",
+        "label": "Led control",
+        "group": "39cba0eaeb3461ed",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "className": "",
+        "onvalue": "{\"led\":1}",
+        "onvalueType": "json",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "{\"led\":0}",
+        "offvalueType": "json",
+        "officon": "",
+        "offcolor": "",
+        "x": 210,
+        "y": 3380,
+        "wires": [
+            [
+                "acbe87ec7ecbaa74"
+            ]
+        ]
+    },
+    {
+        "id": "b622a20e91b253b8",
+        "type": "ui-led",
+        "z": "4f60b2e366e2eb5e",
+        "g": "70ad1e7a55772aaf",
+        "name": "Switch status",
+        "group": "39cba0eaeb3461ed",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "Swtich status",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "states": [
+            {
+                "value": "false",
+                "valueType": "bool",
+                "color": "#ff0000"
+            },
+            {
+                "value": "true",
+                "valueType": "bool",
+                "color": "#00ff00"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showBorder": true,
+        "showGlow": false,
+        "x": 1170,
+        "y": 3460,
+        "wires": []
+    },
+    {
+        "id": "f0944873ce7f9670",
+        "type": "ui-chart",
+        "z": "4f60b2e366e2eb5e",
+        "g": "70ad1e7a55772aaf",
+        "group": "39cba0eaeb3461ed",
+        "name": "",
+        "label": "Temperature",
+        "order": 4,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "msg",
+        "xAxisType": "time",
+        "yAxisProperty": "",
+        "ymin": "",
+        "ymax": "",
+        "action": "append",
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "3600",
+        "removeOlderPoints": "",
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "width": "3",
+        "height": "4",
+        "className": "",
+        "x": 1190,
+        "y": 3520,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "abf8fc2f1fd5a8ef",
+        "type": "ui-gauge",
+        "z": "4f60b2e366e2eb5e",
+        "g": "70ad1e7a55772aaf",
+        "name": "",
+        "group": "39cba0eaeb3461ed",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Temperature",
+        "units": "[°C]",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c"
+            },
+            {
+                "from": "4",
+                "color": "#ffc800"
+            },
+            {
+                "from": "7",
+                "color": "#ea5353"
+            }
+        ],
+        "min": 0,
+        "max": "100",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 1190,
+        "y": 3660,
+        "wires": []
+    },
+    {
+        "id": "ee97a930e16ca8f9",
+        "type": "mqtt out",
+        "z": "4f60b2e366e2eb5e",
+        "g": "39c4a543aa3ea410",
+        "name": "",
+        "topic": "/8/ctrl",
+        "qos": "1",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "3e7de86a73855ac4",
+        "x": 410,
+        "y": 3860,
+        "wires": []
+    },
+    {
+        "id": "94624116694dda1f",
+        "type": "mqtt in",
+        "z": "4f60b2e366e2eb5e",
+        "g": "39c4a543aa3ea410",
+        "name": "",
+        "topic": "/8/sensor",
+        "qos": "2",
+        "datatype": "json",
+        "broker": "3e7de86a73855ac4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 500,
+        "y": 4000,
+        "wires": [
+            [
+                "78753fc46620be66",
+                "2ec7e0295af400be",
+                "a8b44221e7012afe"
+            ]
+        ]
+    },
+    {
+        "id": "78753fc46620be66",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "39c4a543aa3ea410",
+        "name": "debug 15",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 820,
+        "y": 3860,
+        "wires": []
+    },
+    {
+        "id": "92a2c206c0d3bac4",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "39c4a543aa3ea410",
+        "name": "debug 16",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1160,
+        "y": 4080,
+        "wires": []
+    },
+    {
+        "id": "2ec7e0295af400be",
+        "type": "json",
+        "z": "4f60b2e366e2eb5e",
+        "g": "39c4a543aa3ea410",
+        "name": "",
+        "property": "payload.temp",
+        "action": "obj",
+        "pretty": false,
+        "x": 670,
+        "y": 4000,
+        "wires": [
+            [
+                "514c74448f24d911",
+                "5655b59a344849ed"
+            ]
+        ]
+    },
+    {
+        "id": "514c74448f24d911",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "39c4a543aa3ea410",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.temp",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 900,
+        "y": 4000,
+        "wires": [
+            [
+                "92a2c206c0d3bac4",
+                "1fc11ed428b983f3",
+                "adf1b5756bf07d72"
+            ]
+        ]
+    },
+    {
+        "id": "5655b59a344849ed",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "39c4a543aa3ea410",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.switch",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 900,
+        "y": 3940,
+        "wires": [
+            [
+                "994e4b4aac027e8e"
+            ]
+        ]
+    },
+    {
+        "id": "a8b44221e7012afe",
+        "type": "ui-text",
+        "z": "4f60b2e366e2eb5e",
+        "g": "39c4a543aa3ea410",
+        "group": "66a81cca47efb3e1",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "text",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "className": "",
+        "x": 1170,
+        "y": 4240,
+        "wires": []
+    },
+    {
+        "id": "85d7ea131cf97bcf",
+        "type": "ui-switch",
+        "z": "4f60b2e366e2eb5e",
+        "g": "39c4a543aa3ea410",
+        "name": "Led control",
+        "label": "Led control",
+        "group": "66a81cca47efb3e1",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "className": "",
+        "onvalue": "{\"led\":1}",
+        "onvalueType": "json",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "{\"led\":0}",
+        "offvalueType": "json",
+        "officon": "",
+        "offcolor": "",
+        "x": 210,
+        "y": 3860,
+        "wires": [
+            [
+                "ee97a930e16ca8f9"
+            ]
+        ]
+    },
+    {
+        "id": "994e4b4aac027e8e",
+        "type": "ui-led",
+        "z": "4f60b2e366e2eb5e",
+        "g": "39c4a543aa3ea410",
+        "name": "Switch status",
+        "group": "66a81cca47efb3e1",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "Swtich status",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "states": [
+            {
+                "value": "false",
+                "valueType": "bool",
+                "color": "#ff0000"
+            },
+            {
+                "value": "true",
+                "valueType": "bool",
+                "color": "#00ff00"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showBorder": true,
+        "showGlow": false,
+        "x": 1170,
+        "y": 3940,
+        "wires": []
+    },
+    {
+        "id": "1fc11ed428b983f3",
+        "type": "ui-chart",
+        "z": "4f60b2e366e2eb5e",
+        "g": "39c4a543aa3ea410",
+        "group": "66a81cca47efb3e1",
+        "name": "",
+        "label": "Temperature",
+        "order": 4,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "msg",
+        "xAxisType": "time",
+        "yAxisProperty": "",
+        "ymin": "",
+        "ymax": "",
+        "action": "append",
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "3600",
+        "removeOlderPoints": "",
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "width": "3",
+        "height": "4",
+        "className": "",
+        "x": 1190,
+        "y": 4000,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "adf1b5756bf07d72",
+        "type": "ui-gauge",
+        "z": "4f60b2e366e2eb5e",
+        "g": "39c4a543aa3ea410",
+        "name": "",
+        "group": "66a81cca47efb3e1",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Temperature",
+        "units": "[°C]",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c"
+            },
+            {
+                "from": "4",
+                "color": "#ffc800"
+            },
+            {
+                "from": "7",
+                "color": "#ea5353"
+            }
+        ],
+        "min": 0,
+        "max": "100",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 1190,
+        "y": 4140,
+        "wires": []
+    },
+    {
+        "id": "13e61b30718a6980",
+        "type": "mqtt out",
+        "z": "4f60b2e366e2eb5e",
+        "g": "8ddeb7a97deb4715",
+        "name": "",
+        "topic": "/9/ctrl",
+        "qos": "1",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "3e7de86a73855ac4",
+        "x": 410,
+        "y": 4340,
+        "wires": []
+    },
+    {
+        "id": "b240a206404f9326",
+        "type": "mqtt in",
+        "z": "4f60b2e366e2eb5e",
+        "g": "8ddeb7a97deb4715",
+        "name": "",
+        "topic": "/9/sensor",
+        "qos": "2",
+        "datatype": "json",
+        "broker": "3e7de86a73855ac4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 500,
+        "y": 4480,
+        "wires": [
+            [
+                "d4822058fdd416bc",
+                "08a9753564bb5ceb",
+                "433e4dfc0f80793f"
+            ]
+        ]
+    },
+    {
+        "id": "d4822058fdd416bc",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "8ddeb7a97deb4715",
+        "name": "debug 17",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 820,
+        "y": 4340,
+        "wires": []
+    },
+    {
+        "id": "3b0117bf303088a8",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "8ddeb7a97deb4715",
+        "name": "debug 18",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1160,
+        "y": 4560,
+        "wires": []
+    },
+    {
+        "id": "08a9753564bb5ceb",
+        "type": "json",
+        "z": "4f60b2e366e2eb5e",
+        "g": "8ddeb7a97deb4715",
+        "name": "",
+        "property": "payload.temp",
+        "action": "obj",
+        "pretty": false,
+        "x": 670,
+        "y": 4480,
+        "wires": [
+            [
+                "bf7c7a713e3736ce",
+                "647f65d69124779f"
+            ]
+        ]
+    },
+    {
+        "id": "bf7c7a713e3736ce",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "8ddeb7a97deb4715",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.temp",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 900,
+        "y": 4480,
+        "wires": [
+            [
+                "3b0117bf303088a8",
+                "a6bb6a24aea9d05a",
+                "0460c71191388db4"
+            ]
+        ]
+    },
+    {
+        "id": "647f65d69124779f",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "8ddeb7a97deb4715",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.switch",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 900,
+        "y": 4420,
+        "wires": [
+            [
+                "edc68dedcf67e84a"
+            ]
+        ]
+    },
+    {
+        "id": "433e4dfc0f80793f",
+        "type": "ui-text",
+        "z": "4f60b2e366e2eb5e",
+        "g": "8ddeb7a97deb4715",
+        "group": "2e9efa7638965f2d",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "text",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "className": "",
+        "x": 1170,
+        "y": 4720,
+        "wires": []
+    },
+    {
+        "id": "2910f2279c4354fa",
+        "type": "ui-switch",
+        "z": "4f60b2e366e2eb5e",
+        "g": "8ddeb7a97deb4715",
+        "name": "Led control",
+        "label": "Led control",
+        "group": "2e9efa7638965f2d",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "className": "",
+        "onvalue": "{\"led\":1}",
+        "onvalueType": "json",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "{\"led\":0}",
+        "offvalueType": "json",
+        "officon": "",
+        "offcolor": "",
+        "x": 210,
+        "y": 4340,
+        "wires": [
+            [
+                "13e61b30718a6980"
+            ]
+        ]
+    },
+    {
+        "id": "edc68dedcf67e84a",
+        "type": "ui-led",
+        "z": "4f60b2e366e2eb5e",
+        "g": "8ddeb7a97deb4715",
+        "name": "Switch status",
+        "group": "2e9efa7638965f2d",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "Swtich status",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "states": [
+            {
+                "value": "false",
+                "valueType": "bool",
+                "color": "#ff0000"
+            },
+            {
+                "value": "true",
+                "valueType": "bool",
+                "color": "#00ff00"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showBorder": true,
+        "showGlow": false,
+        "x": 1170,
+        "y": 4420,
+        "wires": []
+    },
+    {
+        "id": "a6bb6a24aea9d05a",
+        "type": "ui-chart",
+        "z": "4f60b2e366e2eb5e",
+        "g": "8ddeb7a97deb4715",
+        "group": "2e9efa7638965f2d",
+        "name": "",
+        "label": "Temperature",
+        "order": 4,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "msg",
+        "xAxisType": "time",
+        "yAxisProperty": "",
+        "ymin": "",
+        "ymax": "",
+        "action": "append",
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "3600",
+        "removeOlderPoints": "",
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "width": "3",
+        "height": "4",
+        "className": "",
+        "x": 1190,
+        "y": 4480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0460c71191388db4",
+        "type": "ui-gauge",
+        "z": "4f60b2e366e2eb5e",
+        "g": "8ddeb7a97deb4715",
+        "name": "",
+        "group": "2e9efa7638965f2d",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Temperature",
+        "units": "[°C]",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c"
+            },
+            {
+                "from": "4",
+                "color": "#ffc800"
+            },
+            {
+                "from": "7",
+                "color": "#ea5353"
+            }
+        ],
+        "min": 0,
+        "max": "100",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 1190,
+        "y": 4620,
+        "wires": []
+    },
+    {
+        "id": "bd88abeb0dbd4d08",
+        "type": "mqtt out",
+        "z": "4f60b2e366e2eb5e",
+        "g": "af872bb6a9ad79b5",
+        "name": "",
+        "topic": "/10/ctrl",
+        "qos": "1",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "3e7de86a73855ac4",
+        "x": 410,
+        "y": 4840,
+        "wires": []
+    },
+    {
+        "id": "dbbfc6e9a1eec37a",
+        "type": "mqtt in",
+        "z": "4f60b2e366e2eb5e",
+        "g": "af872bb6a9ad79b5",
+        "name": "",
+        "topic": "/10/sensor",
+        "qos": "2",
+        "datatype": "json",
+        "broker": "3e7de86a73855ac4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 500,
+        "y": 4980,
+        "wires": [
+            [
+                "22148f4b6a5eb0f1",
+                "ffeee258fa05bf03",
+                "c3778cbc1d12153f"
+            ]
+        ]
+    },
+    {
+        "id": "22148f4b6a5eb0f1",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "af872bb6a9ad79b5",
+        "name": "debug 19",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 820,
+        "y": 4840,
+        "wires": []
+    },
+    {
+        "id": "242f5cbdf19428d5",
+        "type": "debug",
+        "z": "4f60b2e366e2eb5e",
+        "g": "af872bb6a9ad79b5",
+        "name": "debug 20",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1160,
+        "y": 5060,
+        "wires": []
+    },
+    {
+        "id": "ffeee258fa05bf03",
+        "type": "json",
+        "z": "4f60b2e366e2eb5e",
+        "g": "af872bb6a9ad79b5",
+        "name": "",
+        "property": "payload.temp",
+        "action": "obj",
+        "pretty": false,
+        "x": 670,
+        "y": 4980,
+        "wires": [
+            [
+                "e9d776fda3f1981e",
+                "cc317569d0e658b0"
+            ]
+        ]
+    },
+    {
+        "id": "e9d776fda3f1981e",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "af872bb6a9ad79b5",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.temp",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 900,
+        "y": 4980,
+        "wires": [
+            [
+                "242f5cbdf19428d5",
+                "ec88653e0ee66349",
+                "6a1d96430ef4a85b"
+            ]
+        ]
+    },
+    {
+        "id": "cc317569d0e658b0",
+        "type": "change",
+        "z": "4f60b2e366e2eb5e",
+        "g": "af872bb6a9ad79b5",
+        "name": "",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload.switch",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 900,
+        "y": 4920,
+        "wires": [
+            [
+                "af2ec8ef4df24a37"
+            ]
+        ]
+    },
+    {
+        "id": "c3778cbc1d12153f",
+        "type": "ui-text",
+        "z": "4f60b2e366e2eb5e",
+        "g": "af872bb6a9ad79b5",
+        "group": "8b7f7160e0eb7306",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "text",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "className": "",
+        "x": 1170,
+        "y": 5220,
+        "wires": []
+    },
+    {
+        "id": "6a56ae8fff0784a2",
+        "type": "ui-switch",
+        "z": "4f60b2e366e2eb5e",
+        "g": "af872bb6a9ad79b5",
+        "name": "Led control",
+        "label": "Led control",
+        "group": "8b7f7160e0eb7306",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "className": "",
+        "onvalue": "{\"led\":1}",
+        "onvalueType": "json",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "{\"led\":0}",
+        "offvalueType": "json",
+        "officon": "",
+        "offcolor": "",
+        "x": 210,
+        "y": 4840,
+        "wires": [
+            [
+                "bd88abeb0dbd4d08"
+            ]
+        ]
+    },
+    {
+        "id": "af2ec8ef4df24a37",
+        "type": "ui-led",
+        "z": "4f60b2e366e2eb5e",
+        "g": "af872bb6a9ad79b5",
+        "name": "Switch status",
+        "group": "8b7f7160e0eb7306",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "Swtich status",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "states": [
+            {
+                "value": "false",
+                "valueType": "bool",
+                "color": "#ff0000"
+            },
+            {
+                "value": "true",
+                "valueType": "bool",
+                "color": "#00ff00"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showBorder": true,
+        "showGlow": false,
+        "x": 1170,
+        "y": 4920,
+        "wires": []
+    },
+    {
+        "id": "ec88653e0ee66349",
+        "type": "ui-chart",
+        "z": "4f60b2e366e2eb5e",
+        "g": "af872bb6a9ad79b5",
+        "group": "8b7f7160e0eb7306",
+        "name": "",
+        "label": "Temperature",
+        "order": 4,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "msg",
+        "xAxisType": "time",
+        "yAxisProperty": "",
+        "ymin": "",
+        "ymax": "",
+        "action": "append",
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "3600",
+        "removeOlderPoints": "",
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "width": "3",
+        "height": "4",
+        "className": "",
+        "x": 1190,
+        "y": 4980,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6a1d96430ef4a85b",
+        "type": "ui-gauge",
+        "z": "4f60b2e366e2eb5e",
+        "g": "af872bb6a9ad79b5",
+        "name": "",
+        "group": "8b7f7160e0eb7306",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Temperature",
+        "units": "[°C]",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c"
+            },
+            {
+                "from": "4",
+                "color": "#ffc800"
+            },
+            {
+                "from": "7",
+                "color": "#ea5353"
+            }
+        ],
+        "min": 0,
+        "max": "100",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 1190,
+        "y": 5120,
+        "wires": []
+    },
+    {
+        "id": "3e7de86a73855ac4",
+        "type": "mqtt-broker",
+        "name": "local",
+        "broker": "127.0.0.1",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "e718f90f8bb0eae5",
+        "type": "ui-group",
+        "name": "Sensor 1",
+        "page": "01d798f9617b4c21",
+        "width": "3",
+        "height": "1",
+        "order": -1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "28c23fd9eadfbfb9",
+        "type": "ui-group",
+        "name": "Sensor 2",
+        "page": "01d798f9617b4c21",
+        "width": "3",
+        "height": "1",
+        "order": -1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "9cd8e89b21640241",
+        "type": "ui-group",
+        "name": "Sensor 3",
+        "page": "01d798f9617b4c21",
+        "width": "3",
+        "height": "1",
+        "order": -1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "573fcdddf1f181de",
+        "type": "ui-group",
+        "name": "Sensor 4",
+        "page": "01d798f9617b4c21",
+        "width": "3",
+        "height": "1",
+        "order": -1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "7fcd15d2046cee8b",
+        "type": "ui-group",
+        "name": "Sensor 5",
+        "page": "01d798f9617b4c21",
+        "width": "3",
+        "height": "1",
+        "order": -1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "bb445058d5fe5355",
+        "type": "ui-group",
+        "name": "Sensor 6",
+        "page": "01d798f9617b4c21",
+        "width": "3",
+        "height": "1",
+        "order": -1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "39cba0eaeb3461ed",
+        "type": "ui-group",
+        "name": "Sensor 7",
+        "page": "01d798f9617b4c21",
+        "width": "3",
+        "height": "1",
+        "order": -1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "66a81cca47efb3e1",
+        "type": "ui-group",
+        "name": "Sensor 8",
+        "page": "01d798f9617b4c21",
+        "width": "3",
+        "height": "1",
+        "order": -1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "2e9efa7638965f2d",
+        "type": "ui-group",
+        "name": "Sensor 9",
+        "page": "01d798f9617b4c21",
+        "width": "3",
+        "height": "1",
+        "order": -1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "8b7f7160e0eb7306",
+        "type": "ui-group",
+        "name": "Sensor 10",
+        "page": "01d798f9617b4c21",
+        "width": "3",
+        "height": "1",
+        "order": -1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "01d798f9617b4c21",
+        "type": "ui-page",
+        "name": "Sensor dashboard",
+        "ui": "730c4416e936b390",
+        "path": "/",
+        "icon": "home",
+        "layout": "grid",
+        "theme": "e7a0926e807501a7",
+        "order": -1,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "730c4416e936b390",
+        "type": "ui-base",
+        "name": "UI Name",
+        "path": "/dashboard",
+        "includeClientData": true,
+        "acceptsClientConfig": [
+            "ui-notification",
+            "ui-control"
+        ],
+        "showPathInSidebar": false,
+        "navigationStyle": "default"
+    },
+    {
+        "id": "e7a0926e807501a7",
+        "type": "ui-theme",
+        "name": "Theme Name",
+        "colors": {
+            "surface": "#ffffff",
+            "primary": "#0094ce",
+            "bgPage": "#eeeeee",
+            "groupBg": "#ffffff",
+            "groupOutline": "#cccccc"
+        },
+        "sizes": {
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px"
+        }
+    }
+]
