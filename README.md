@@ -70,12 +70,25 @@ stop : ctrl+c
 
 ##Clone Python Script
 
+git clone https://github.com/tgaberan/TD_IoT.git
+
 
 ###install paho mqtt
 
 pip3 install paho-mqtt
 
 
+### run python script
+
+python IoT_TD_sub.py
+
+open the nodered url : http://213.32.88.153:1880/dashboard/
+
 
 ###install temp lib
+cd ~
 git clone https://github.com/adafruit/Adafruit_Python_MCP9808.git
+cd Adafruit_Python_MCP9808/
+sudo python setup.py  install
+
+
