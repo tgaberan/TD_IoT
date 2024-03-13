@@ -69,3 +69,13 @@ stop : ctrl+c
 
 
 ##Clone Python Script
+
+
+###install paho mqtt
+
+pip3 install paho-mqtt
+
+
+
+###install temp lib
+git clone https://github.com/adafruit/Adafruit_Python_MCP9808.git

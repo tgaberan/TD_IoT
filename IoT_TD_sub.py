@@ -59,7 +59,7 @@ def on_connect(client, userdata, flags, reason_code, properties):
     else:
         # we should always subscribe from on_connect callback to be sure
         # our subscribed is persisted across reconnections.
-        client.subscribe("#")
+        client.subscribe(topic)
 
 
 GPIO.setup("P8_10", GPIO.OUT)
