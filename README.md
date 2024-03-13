@@ -103,3 +103,5 @@ cd Adafruit_Python_MCP9808/
 sudo python setup.py  install
 ```
 
+### connect the HW
+![image](img/cape-headers-digital.png)
