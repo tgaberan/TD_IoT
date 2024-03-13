@@ -90,7 +90,7 @@ stop :
 
 ### run python script
 
->python IoT_TD_sub.py
+>python IoT_TD_pubsub.py
 
 open the nodered url : http://213.32.88.153:1880/dashboard/
 
